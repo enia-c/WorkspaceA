@@ -1,0 +1,3 @@
+[submodule "TestMonorepo"]
+	path = TestMonorepo
+	url = https://github.com/enia-c/TestMonorepo.git
